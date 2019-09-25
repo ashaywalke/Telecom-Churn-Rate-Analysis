@@ -4,7 +4,7 @@
 # Project Summary
 
 ### Requirement
-   No-Churn Telecom is an established Telecom operator in Europe with more than a decade in business. Due to new players in the Market, Telecom industry has become very competitive and retaining customers is becoming a challenge.
+   No-Churn Telecom is an established Telecom operator in America with more than a decade in business. Due to new players in the Market, Telecom industry has become very competitive and retaining customers is becoming a challenge.
    In spite of No-Churn initiative for reducing tariffs and promoting more offers, the churn rate(percentage of customers migrating to competitors) is well above 10%.
    No-Churn wants to explore possibility of Machine Learning to help retain competitive edge in the industry.
     
